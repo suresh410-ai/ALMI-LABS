@@ -15,4 +15,6 @@ LAB-07:[IMPLEMENT SUPPORT VECTOR MACHINE CLASSIFICATION USING BREAST CANCER DATA
 
 LAB-08:[IMPLEMENT DECISION TREE CLASSIFIER USING LEADING CLIB DATA](https://github.com/suresh410-ai/ALMI-LABS/blob/main/AIML_LAB_08.ipynb)
 
-LAB-09:[](https://github.com/suresh410-ai/ALMI-LABS/blob/main/Lab09-RF_Classification.ipynb)
+LAB-09:[RANDOM FOREST APPLIED TO LENDING CLUB DATASET](https://github.com/suresh410-ai/ALMI-LABS/blob/main/Lab09-RF_Classification.ipynb)
+
+LAB-10:[IMPLEMENT K-MEANS CLUSTE](https://github.com/suresh410-ai/ALMI-LABS/blob/main/Lab10-KMeans.ipynb)
